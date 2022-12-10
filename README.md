@@ -7,12 +7,12 @@
 <h3 align="center">My first project in Hive Helsinki. The in depth examination of most standard c library functions.</h3>
 
 <p align="center">
-  <a href="#what-it-does">What does it do?</a> •
+  <a href="#what-does-it-do">What does it do?</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
-## What it does?
+## What does it do?
 
 * Offers handy functions such as:
   - String handling
